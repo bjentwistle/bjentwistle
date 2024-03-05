@@ -1,4 +1,6 @@
-## About me
+#Hello there! 🥰
+
+### About me
 
 - 😄 Pronouns: She/her
 - 🔭 I’m currently working on a group mobile game project with fellow Codeclan graduates.
