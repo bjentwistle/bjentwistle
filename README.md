@@ -12,4 +12,4 @@
 ## Last project
 Made with a team from Chingu:
 
-<img src = "https://github.com/chingu-voyages/v46-tier3-team-33/blob/main/userdesign/vegelicious_screen.png" width="50%">
+<img src = "https://github.com/chingu-voyages/v46-tier3-team-33/blob/main/userdesign/vegelicious_screen.png" width="80%">
